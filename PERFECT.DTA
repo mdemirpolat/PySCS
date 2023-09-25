@@ -1,0 +1,22 @@
+6                       { nposition     }   { perfect.dta }
+10                      { nclassifier   }
+0.5                     { pgeneral      }
+0.10                    { cbid          }
+0.075                   { bidsigma      }
+0.01                    { bidtax        }
+0.0                     { lifetax       }
+1.0                     { bid   1       }
+0.0                     { bid   2       }
+1.0                     { ebid  1       }
+0.0                     { ebid  2       }
+###000:0 10             { perfect rules }
+###100:1 10
+##0#01:0 10
+##1#01:1 10
+#0##10:0 10
+#1##10:1 10
+0###11:0 10
+1###11:1 10
+######:0 10
+######:0 10             {   general rules  }
+n                       {   bucketbrigadeflag   }

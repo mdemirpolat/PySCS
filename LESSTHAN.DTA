@@ -1,0 +1,20 @@
+6                       { nposition }   { lessthan(perfect).dta }
+7                       { nclasssfier }
+0.5                     { pgeneral }
+0.1                     { cbid }
+0.075                   { bidsigma }
+0.01                    { bidtax   }
+0.00                    { lifetax  }
+1.00                    { bid 1    }
+0.00                    { bld 2    } 
+1.00                    { ebid 1   }    
+0.00                    { ebid 2   }
+###000:0 10             { default hierarchy }
+##0#01:0 10 
+#0##10:0 10 
+0###11:0 10 
+######:1 10 
+0###11:1 10             {   monkey wrenches }
+######:0 10 
+n                       {   bucketbrigadeflag }
+

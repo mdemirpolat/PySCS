@@ -1,0 +1,6 @@
+0                   	{ Initialiteration }    { time.dta }
+0                    	{   Initialblock    }
+2000  		              	{   reportperiod    }
+50       	            { consolereportperiod }
+50           	        {   plotreportperiod }
+50               	    {   gaperiod }
